@@ -442,8 +442,14 @@ li {
 
     .header {
         padding: 10px 30px;
+        width: auto;
+        min-width: 351px;
     }
 
+    .ul_nav{
+        flex-wrap: wrap;
+        column-width: auto;
+    }
 
 
 
