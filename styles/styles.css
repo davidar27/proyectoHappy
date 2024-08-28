@@ -488,7 +488,7 @@ li {
 
 
     .info_2 h2 {
-        width: 481px;
+        width: auto;
 
     }
 
@@ -562,7 +562,7 @@ li {
     .section_6 {
         gap: 20px;
         padding: 20px;
-        width: 461px;
+        width: 440px;
         min-width: 352px;
     }
 
@@ -584,7 +584,7 @@ li {
     }
 
     .info_6 h2 {
-        font-size: 5em;
+        font-size: 4.5em;
         font-family: "Bebas Neue", sans-serif;
         font-weight: 400;
         font-style: normal;
