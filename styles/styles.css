@@ -465,7 +465,6 @@ li {
         top: 55%;
         width: 352px;
         min-width: 300px;
-
     }
 
 
@@ -568,8 +567,7 @@ li {
     .section_6 {
         gap: 20px;
         padding: 20px;
-        width: 440px;
-        min-width: 352px;
+        min-width: 200px;
     }
 
 
