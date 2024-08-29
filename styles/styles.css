@@ -11,6 +11,9 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px 50px;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
 
 }
 
@@ -37,7 +40,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 80px 0 300px;
+    padding: 200px 0 300px;
     gap: 100px;
 }
 
@@ -81,7 +84,7 @@ a {
     padding: 70px;
     gap: 100px;
     position: absolute;
-    top: 750px;
+    top: 800px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.377);
 }
 
@@ -450,7 +453,7 @@ li {
 
         max-width: 470px;
         min-width: 340px;
-        padding: 30px 10px 220px;
+        padding: 130px 10px 220px;
     }
 
     .info_1 {
@@ -475,7 +478,7 @@ li {
         flex-direction: column;
         padding: 20px;
         gap: 20px;
-        top: 520px;
+        top: 550px;
         max-width: 320px;
     }
 
@@ -580,11 +583,12 @@ li {
         min-width: 100px;
     }
 
-
+    .section_5 {
+        padding: 10px;
+        gap: 10px;
+    }
     #info_5 {
         gap: 10px;
-        margin-bottom: -200px;
-
     }
 
     #info_5_title {
