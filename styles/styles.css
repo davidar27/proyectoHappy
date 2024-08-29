@@ -455,8 +455,9 @@ li {
 
 
     .section_1 {
-        max-width: 100%;
-        min-width: 352px;
+        max-width: 470px;
+        min-width: 340px;
+        padding: 5px;
     }
 
     .info_1{
