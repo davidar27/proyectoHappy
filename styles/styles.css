@@ -81,7 +81,7 @@ a {
     padding: 70px;
     gap: 100px;
     position: absolute;
-    top: 120%;
+    top: 750px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.377);
 }
 
@@ -114,7 +114,7 @@ a {
     background-color: #f5cc00;
     display: flex;
     align-items: center;
-    padding: 350px 80px;
+    padding: 100px 80px 200px;
 }
 
 .info_2 {
@@ -136,13 +136,12 @@ a {
     width: 360px;
 }
 
+.img_section2 {
+    padding-top: 450px;
+}
+
 .section_2 img {
-    top: 1430px;
-    position: absolute;
-    right: 80px;
-    width: 750px;
-
-
+    width: 100%;
 }
 
 #readmore_2 {
@@ -226,6 +225,14 @@ a {
 
 #readmore_3 {
     padding: 10px 20px;
+}
+
+.section_5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+    gap: 100px;
 }
 
 #info_5 {
@@ -423,21 +430,6 @@ li {
 }
 
 
-@media (width >=1920px) and (width <=3000px) {
-
-    .header {
-        background-color: #868683;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 10px 50px;
-
-    }
-
-}
-
-
-
 @media (width >=352px) and (width <=480px) {
 
     .header {
@@ -461,15 +453,16 @@ li {
         padding: 30px 10px 220px;
     }
 
-    .info_1{
+    .info_1 {
         width: 100%;
     }
+
     .info_1 h2 {
         font-size: 5em;
         width: auto;
     }
 
-    .info_1 p{
+    .info_1 p {
         width: auto;
     }
 
@@ -519,7 +512,7 @@ li {
 
     }
 
-    .info_2 p{
+    .info_2 p {
         width: auto;
     }
 
@@ -529,7 +522,7 @@ li {
     }
 
 
-    .section_3{
+    .section_3 {
         max-width: 470px;
         min-width: 340px;
     }
@@ -563,11 +556,12 @@ li {
         align-self: center;
     }
 
-    .section_4{
+    .section_4 {
         padding: 10px;
         max-width: 470px;
         min-width: 340px;
     }
+
     .info_4 {
         width: 481px;
         min-width: 352px;
@@ -593,9 +587,10 @@ li {
 
     }
 
-    #info_5_title{
+    #info_5_title {
         width: auto;
     }
+
     .img_5 {
         display: none;
     }
@@ -648,13 +643,13 @@ li {
         min-width: 352px;
     }
 
-    .info_contact p{
+    .info_contact p {
         width: auto;
         font-size: .9em;
     }
 
 
-    .info_contact h2{
+    .info_contact h2 {
         width: auto;
     }
 
@@ -664,7 +659,7 @@ li {
         min-width: 340px;
     }
 
-    footer{
+    footer {
         padding: 5px;
         max-width: 470px;
         min-width: 340px;
