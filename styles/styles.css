@@ -324,7 +324,7 @@ form select {
     margin-bottom: 20px;
 }
 
-.menssage {
+.message {
     display: flex;
     flex-direction: column;
 }
