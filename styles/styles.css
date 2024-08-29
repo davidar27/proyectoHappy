@@ -458,7 +458,7 @@ li {
 
         max-width: 470px;
         min-width: 340px;
-        padding: 30px 0px 200px;
+        padding: 30px 10px 220px;
     }
 
     .info_1{
@@ -482,10 +482,8 @@ li {
         flex-direction: column;
         padding: 20px;
         gap: 20px;
-        top: 500px;
-        max-width: 290px;
-        min-width: 200px;
-        box-shadow: none;
+        top: 520px;
+        max-width: 320px;
     }
 
     .info_float {
@@ -539,7 +537,7 @@ li {
     .section_3_1 {
         margin: 30px;
         width: 330px;
-        padding: 20px;
+        padding: 10px;
     }
 
     .section_img_3 {
@@ -553,7 +551,7 @@ li {
 
     .info_3 h2 {
         width: auto;
-        font-size: 4.6em;
+        font-size: 4em;
     }
 
 
@@ -566,7 +564,7 @@ li {
     }
 
     .section_4{
-        padding: 5px;
+        padding: 10px;
         max-width: 470px;
         min-width: 340px;
     }
@@ -604,7 +602,7 @@ li {
 
     .section_6 {
         gap: 40px;
-        padding: 5px;
+        padding: 10px;
         max-width: 470px;
         min-width: 340px;
         margin-top: 50px;
@@ -619,7 +617,7 @@ li {
     .info_6 {
         width: auto;
         gap: 30px;
-        padding: 0;
+        padding: 10px;
 
     }
 
@@ -638,7 +636,7 @@ li {
 
     .contact {
         flex-direction: column;
-        padding: 5px;
+        padding: 10px;
         gap: 50px;
         max-width: 470px;
         min-width: 340px;
@@ -661,7 +659,7 @@ li {
     }
 
     form {
-        padding: 5px;
+        padding: 10px;
         max-width: 100%;
         min-width: 340px;
     }
