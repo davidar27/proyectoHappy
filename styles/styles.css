@@ -433,7 +433,7 @@ li {
 }
 
 
-@media (width >=352px) and (width <=480px) {
+@media (max-width: 480px) {
 
     .header {
         padding: 5px;
